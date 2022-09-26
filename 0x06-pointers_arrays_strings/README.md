@@ -1,0 +1,1 @@
+A project with tasks on pointers, arrays and strings
